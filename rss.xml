@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RUTA AUTO COUNSULTING]]></title>
+        <description><![CDATA[RUTA AUTO COUNSULTING]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 18:42:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2015 Tundra OFF ROAD PKG]]></title>
+            <description><![CDATA[<article><h1>2015 Tundra OFF ROAD PKG</h1><p>TOYOTA TUNDRA 2015 TRD OFF ROAD PACKAGE 4x4</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e36ee38-946e-452b-8154-5951a5529ad8.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e36ee38-946e-452b-8154-5951a5529ad8.jpg</link>
+            <guid isPermaLink="false">5aa0b7f2-b30e-4741-b793-4046bf247ba4</guid>
+            <pubDate>Sat, 25 Jun 2016 18:41:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
