@@ -1,4 +1,5 @@
-layout_spectrum: 0.8678275
+layout_spectrum: 0
+typography_spectrum: 0.1403509
 color:
   saturation: 0.8271057
   lightness: 0.656377
@@ -10,5 +11,4 @@ color:
     - '#444444'
     - '#A4A7AE'
   rhythmicContrast: 0.4650121
-typography_spectrum: 0.1403509
 name: RUTA AUTO COUNSULTING
